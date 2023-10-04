@@ -13,6 +13,7 @@ Updates are few and far between because I'm also:
 ✨ Studying Cyber Security at CSU</br>
 ✨ Painting minis and making dioramas </br>
 ✨ Leatherworking and 3d printing </br>
+✨ BIM manager and scripting automations in pyRevit for work! </br>
 
 ##### Past Projects 
 👩🏻‍🎓 <a href="https://jstedmandesign.com/UQ_Historia/">UQ Historia - Architectural history project</a> 
